@@ -1,8 +1,11 @@
 ---
-title: Home
+title: Default
 body_classes: 'title-center title-h1h2'
 hero:
     enabled: true
+    backgroundimage:
+        enabled: false
+        mediaupload: {  }
 ---
 
 # Say Hello to Grav!
