@@ -2,3 +2,11 @@ enabled: true
 production: false
 dropdown:
   enabled: true
+navbar:
+  dropdown:
+    enabled: true
+  shadow:
+    enabled: true
+  top_fixed:
+    enabled: true
+custom_logo: {  }
