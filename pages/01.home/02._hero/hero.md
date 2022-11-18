@@ -13,8 +13,10 @@ content:
         -
             color: danger
             text: 'Danger danger'
+            link: '#'
         -
             color: success
             text: 'go go'
+            link: 'https://google.com'
 ---
 

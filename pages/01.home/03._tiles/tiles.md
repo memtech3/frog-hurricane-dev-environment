@@ -11,6 +11,7 @@ tiles:
             enabled: true
             text: 'test Text'
             link: 'https://google.com'
+            color: link
     -
         icon: 'fa fa-cog'
         title: 'Test Title'
@@ -20,6 +21,7 @@ tiles:
             enabled: true
             text: 'yep another one'
             link: /typography
+            color: primary
     -
         icon: 'fa fa-cube'
         title: 'Test Title'
@@ -29,5 +31,6 @@ tiles:
             enabled: true
             text: 'oops yet another one'
             link: '#'
+            color: primary
 ---
 
